@@ -6,3 +6,4 @@ The project explores deploying Generative AI on Edge and Fog computing architect
 3. Kubernetes
 4. Microk8s
 5. ArtifactHub
+6. Raspberry Pi
